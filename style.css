@@ -8,20 +8,24 @@
 
 body > * {
     width: 90%;
+    font-family: sans-serif; 
 }
 
 .myCloud {
     background-color: black;
     color: white;
+    text-align: left;
 }
 
 .completeProjects {
     background-color: rebeccapurple;
     color: white;
+    text-align: center;
 }
 
 .contactUs {
     background-color: aquamarine;
     color: rebeccapurple;
+    text-align: right;
 }
 

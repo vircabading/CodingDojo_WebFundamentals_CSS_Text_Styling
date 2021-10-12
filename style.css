@@ -6,21 +6,22 @@
         ////////////////////////////////////
 */
 
-body {
-    background-color: grey;
+body > * {
+    width: 90%;
 }
 
 .myCloud {
     background-color: black;
     color: white;
-    width: 90%;
 }
 
 .completeProjects {
-    
+    background-color: rebeccapurple;
+    color: white;
 }
 
 .contactUs {
-
+    background-color: aquamarine;
+    color: rebeccapurple;
 }
 
